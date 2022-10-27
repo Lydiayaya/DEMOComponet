@@ -1,5 +1,5 @@
 # myComponet
-
+使用dumi搭建的组件库，并尝试了部署在nginx上面
 ## Getting Started
 
 Install dependencies,
