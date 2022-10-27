@@ -33,5 +33,5 @@ $ npm run build
 ```
 生成部署文件
 ```
-npm rundocs:build
+npm run docs:build
 ```
